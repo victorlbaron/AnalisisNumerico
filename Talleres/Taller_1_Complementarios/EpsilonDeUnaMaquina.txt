@@ -1,0 +1,26 @@
+•	¿Cómo se ajusta un numero binario infinito en numero finito de bits?
+
+Para representar un número infinito en un numero finito de bits, se debe colocar el número 1 en todos los bits del exponente y el número 0 en todos los del significado, y dependiendo del primero bit será infinito negativo o positivo.
+
+•	¿Cuál es la diferencia entre redondeo y recorte?
+
+El redondeo consiste en llevar un numero al más cercano terminado en cero, redondear es sustituir un numero por el más próximo. En cambio, el recorte sin importar que decenas, centenas, unidades de mil etc. dependiendo de cuantos dígitos, este será recortado sin ningún tipo de aproximación.
+
+•	¿Cómo se ajusta un numero binario infinito en un numero finito de bits?
+
+signo     Exponente             Mantisa 
+
+         0       11111111        00000000000000000000000
+
+         1       11111111        00000000000000000000000
+
+•	Indique el numero de punto flotante (IEEE) de precisión doble asociado a x, el cual se denota como fl(x); para x(0.4)
+00111110110011001100110011001101
+
+•	Verificar si el tipo de datos básico de R y Python es de precisión doble IEEE y Revisar en R y Phython el format long
+
+El tipo de dato básico de R y Python es de precisión doble
+
+•	Encuentre la representaci´on en número de maquina hexadecimal del número real 9.4
+
+La representación hexadecimal del número 9.4 es igual a 5E
