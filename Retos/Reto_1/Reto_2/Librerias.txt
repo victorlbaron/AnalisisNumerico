@@ -1,0 +1,8 @@
+Por favor, para poder generar la gráfica del mortero instale las siguientes librerias en su Rstudio
+
+•	library(bezier) -> Toolkit for Bezier Curves and Splines
+•	library(plot3D) -> Plotting Multi-Dimensional Data
+•	library(rgl) -> 3D visualization Using OpenGL
+•	library(scatterplot3d) -> 3D Scatter plot
+
+Gracias...
