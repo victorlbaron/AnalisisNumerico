@@ -1,0 +1,4 @@
+[1] www.rdocumentation.org
+[2] http://www.sthda.com
+[3] www. cran.r-project.org
+[4] The R Fondation. The r project for statistical computing 
